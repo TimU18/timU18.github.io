@@ -1,3 +1,11 @@
 body { 
     background-color:lightseagreen ;}
 {background-image:url("https://fleurjemuurop.nl/wp-content/uploads/2020/10/AdobeStock_305505916.jpeg")}
+a:link, a:visited{
+    background-color: crimson;
+    color: blue;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: wavy;
+    display: inline-block;
+}
