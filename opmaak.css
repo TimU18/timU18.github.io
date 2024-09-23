@@ -1,6 +1,6 @@
 body { 
     background-image:url("https://fleurjemuurop.nl/wp-content/uploads/2020/10/AdobeStock_305505916.jpeg")}
-a:link, a:visited{
+/*a:link, a:visited{
     background-color: crimson;
     color: blue;
     padding: 14px 25px;
@@ -10,7 +10,7 @@ a:link, a:visited{
 }
 a:hover, a:active{
     background-color: rgba(56, 232, 29, 0.442);
-}
+}*/
 
 ul {
     list-style-type: none;
