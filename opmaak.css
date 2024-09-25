@@ -1,9 +1,9 @@
 body { 
-    background-image:url("https://fleurjemuurop.nl/wp-content/uploads/2020/10/AdobeStock_305505916.jpeg")}
+    background-image:url("https://fleurjemuurop.nl/wp-content/uploads/2020/10/AdobeStock_305505916.jpeg" width= )}
 a:link, a:visited{
     background-color: crimson;
     color: blue;
-    padding: 28px 50px;
+    padding: 14px 25px;
     text-align: center;
     text-decoration: wavy;
     display: inline-block;
