@@ -21,7 +21,7 @@ a:active {
 }
 
 ul {
-  background-color: #42d1f5;
+  background-color: hsl(192, 90%, 61%);
   border-radius: 10px;
   box-shadow: 0px 0px 10px #42d1f5;
   display: inline-block;
