@@ -30,6 +30,10 @@ li {
   float: left;
 }
 
+Ol {
+  float: left;
+}
+
 a {
   display: block;
   padding: 8px;
