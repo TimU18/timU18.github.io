@@ -4,7 +4,7 @@ body {
   background-attachment: fixed;
   background-image: url("https://fleurjemuurop.nl/wp-content/uploads/2020/10/AdobeStock_305505916.jpeg")
 }
-
+/*Met css op body zorg ik ervoor dat de achter grond foto in het centrum staat en als ik naar beneden scroll dat de foto hetselde blijft */
 a:link,
 a:visited {
   background-color: crimson;
@@ -14,7 +14,7 @@ a:visited {
   text-decoration: wavy;
   display: inline-block;
 }
-
+/* hiermee zorg ik ervoor dat de linkjes in een blok zijn met geen scherpe punten */
 a:hover,
 a:active {
   background-color: rgba(56, 232, 29, 0.442);
@@ -27,7 +27,7 @@ ul {
   display: inline-block;
   padding: 5px;
 }
-
+/*Hiermee heb ik bepaalt hoe het hoofdmenu eruit ziet*/
 li {
   float: left;
 }
@@ -41,7 +41,7 @@ a {
   padding: 8px;
   background-color: #dddddd;
 }
-
+/*Hiermee bepaal ik hoe een snel link eruit ziet */
 h4 {
   background-color: #42d1f5;
   border-radius: 10px;
@@ -49,7 +49,7 @@ h4 {
   display: inline-block;
   padding: 5px;
 }
-
+/*Ik heb ervoor gezorgt dat de achtergrond er lichtblauw eruit ziet als ik text plaatst, dit geld hetzelfde voor de rest die hier onder staat */
 h3 {
   background-color: #42d1f5;
   border-radius: 10px;
